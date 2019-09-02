@@ -1,0 +1,38 @@
+{
+  "name": "react-native-jany-intercom-webview",
+  "version": "0.0.1",
+  "description": "React Native WebView containing Intercom",
+  "main": "IntercomWebView.js",
+  "scripts": {
+    "lint": "eslint IntercomWeb.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donovantc/react-native-intercom-webview.git"
+  },
+  "keywords": [
+    "react-native",
+    "Intercom",
+    "ios",
+    "android",
+    "react-component"
+  ],
+  "author": "Donovan Isherwood <donovantcdev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/APSL/react-native-intercom-webview/issues"
+  },
+  "homepage": "https://github.com/APSL/react-native-intercom-webview#readme",
+  "dependencies": {
+    "react-native-loading-spinner-overlay": "^0.5.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.5",
+    "babel-preset-react-native": "^1.9.0",
+    "eslint": "^2.13.1",
+    "eslint-plugin-react": "^5.2.2",
+    "eslint-plugin-react-native": "^1.1.0-beta",
+    "react": "^15.3.2",
+    "react-native": "^0.40.0"
+  }
+}

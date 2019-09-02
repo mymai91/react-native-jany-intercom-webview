@@ -1,0 +1,31 @@
+{
+  "name": "react-native-jany-intercom-webview",
+  "version": "1.0.0",
+  "description": "A React Native Component that renders [Intercom](https://www.intercom.com) in a React Native WebView. This plugin supports React Native version 0.40.",
+  "main": "IntercomWebView.js",
+  "scripts": {
+    "lint": "eslint IntercomWeb.js"
+  },
+  "keywords": [
+    "react-native",
+    "Intercom",
+    "ios",
+    "android",
+    "react-component"
+  ],
+  "author": "Jany Mai",
+  "license": "ISC",
+  
+  "dependencies": {
+    "react-native-loading-spinner-overlay": "^0.5.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.5",
+    "babel-preset-react-native": "^1.9.0",
+    "eslint": "^2.13.1",
+    "eslint-plugin-react": "^5.2.2",
+    "eslint-plugin-react-native": "^1.1.0-beta",
+    "react": "^15.3.2",
+    "react-native": "^0.40.0"
+  }
+}
