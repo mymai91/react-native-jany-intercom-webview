@@ -15,9 +15,9 @@
   ],
   "author": "Jany Mai",
   "license": "ISC",
-  
   "dependencies": {
-    "react-native-loading-spinner-overlay": "^0.5.2"
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-webview": "^7.0.4"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.5",
